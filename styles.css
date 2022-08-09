@@ -1,0 +1,23 @@
+body {
+    background: rgb(255,215,21);
+    background: linear-gradient(147deg, rgba(255,215,21,1) 0%, rgba(105,25,73,1) 36%, rgba(51,115,226,1) 76%, rgba(6,200,251,1) 97%, rgba(0,212,255,1) 100%);
+}
+
+article {
+    border-radius: 5px;
+    background: rgb(255,215,21);
+    background: linear-gradient(225deg, rgba(255,215,21,0.23993347338935578) 0%, rgba(105,25,73,0.3127626050420168) 36%, rgba(51,115,226,0.5144432773109244) 76%, rgba(6,200,251,0.5536589635854341) 97%, rgba(0,212,255,0.22592787114845936) 100%);
+    padding: 19px;
+}
+img {
+    background: rgb(255,215,21);
+}
+p {
+  color: white;  
+}
+.stickman {
+    background: url("me.png");
+}
+.stickman:hover {
+    background: url("me_hover.png");
+}
